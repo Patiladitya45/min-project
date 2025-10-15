@@ -1,0 +1,44 @@
+body {
+    background-image: url(img.jpg);
+}
+
+
+
+
+h1 {
+    background-color: rgb(230, 15, 194);
+    color: aqua;
+    text-align: center;
+}
+
+.aas {
+    background-color: rgb(119, 195, 240);
+    border-radius: 1rem;
+    height: 25px;
+    width: 300px;
+    margin-left: 500px;
+    border: 2px solid black;
+    color: black;
+}
+.delete {
+   background-color: rgb(241, 19, 19);
+    border-radius: 1rem;
+    height: 25px;
+    border: 2px solid black;
+    margin-left: 1rem;
+   
+}
+
+.adi{
+     background-color: rgb(147, 77, 168);
+    border-radius: 1rem;
+    height: 350px;
+    width: 300px;
+    margin-left: 500px;
+     border: 2px solid black;
+     color: white;
+}
+ 
+li{
+    line-height: 2.5rem;
+}
